@@ -1,0 +1,15 @@
+Le site est destiné à proposer la vente de création de site web. Pour ce faire, celui ci devra mettre en avant les différents aspect permettant à un site de se démarquer des autres.
+
+Le site devra proposer une page sur laquelle il sera possible de me contacter via mail.
+
+Le site devra proposer une page sur laquelle sera indiquer toutes les informations concernant le site et la politique du site.
+
+Le site devra proposer une page d'accueil où sera présent des informations générales.
+
+Le site devra proposer une interface interactive permettant de ce déplacer à travers les différentes pages de manières ergonnomique à partir de toutes les pages.
+
+Le site devra correspondre au norme d'accessibilité RGAA.
+
+Le site devra proposer d'afficher le texte en plusieurs langues: (Anglais, Français, Espagnole, Italien, Allemand, Chinois, Portugais, Arabe, Russe). Un onglet devra être présent sur chaque page permettant de changer à tout moment.
+
+Le site devra proposer un mode sombre disponible et applicable automatiquement selon les paramètre utilisateur.
